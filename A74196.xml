@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Kings most Excellent Majesty. Most gracious soveraign, the glorious Lord of heaven and earth hath done so great things for us in restoring your Majesty to your throne, ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74196</idno>
+            <idno type="STC">Thomason 669.f.25[43]</idno>
+            <idno type="STC">ESTC R212415</idno>
+            <idno type="EEBO-CITATION">99871040</idno>
+            <idno type="PROQUEST">99871040</idno>
+            <idno type="VID">163848</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74196)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163848)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f25[43])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Kings most Excellent Majesty. Most gracious soveraign, the glorious Lord of heaven and earth hath done so great things for us in restoring your Majesty to your throne, ...</title>
+                  <author>Winchester, John Paulet, Earl of, 1598-1675.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Royston at the Angel in Ivy-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLX. [1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>Signed at end: John Lord Paulet [and 94 others].</note>
+                  <note>A congratulatory notice to Charles II.</note>
+                  <note>Annotation on Thomason copy: "June. 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:163848:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <head>TO THE KINGS moſt Excellent Majeſty.</head>
+            <opener>
+               <salute>Moſt Gracious Soveraign,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Glorious Lord of Heaven and Earth hath done ſo great things for us in reſtoring your Majeſty to your Throne, and theſe Nations to your Majeſties Rightfull and Un<g ref="char:EOLhyphen"/>doubted Government in Peace, without either the dangers or deſtructions of Warre, that we are like them that dream. For though the Settlement of your Majeſties Kingdoms under your Royall Scepter, hath been all theſe late times of trouble the matter of our Longings, Prayers, Endeavours, and conſequently of our Expectations, yet to have it accompliſhed ſo much with both your Majeſties Honour, and your Peoples Quiet and Security, was far above our Hope before, and now exceeds the Expreſſions of our Joy. Your Majeſty is ſo ſignally and highly favoured in the Court of Heaven, that God hath for you inverted the ordinary methods of his Providence, he hath took the Race from the Swift, and Victory from the Strong: In your Caſe, Inveterate Factions ſubmit to Union, and high Paſſions and Violence to Reaſon. For this Bleſſing, we have joyned with all your Majeſties Loyall Subjects, in rendring unto God the greateſt Prayſes our Hearts could frame for the greateſt Temporall Mercies, in uſing the loudeſt Accla<g ref="char:EOLhyphen"/>mations, and heartieſt Expreſſions of Joy ever uſed by this Nation, and in evidencing our Submiſſion and Obedience by all the wayes our greateſt Affections and Dutifullneſs could finde out.</p>
+            <p>And we moſt humbly beſeech your Majeſty to accept graciouſly this our moſt humble Addreſs as a further overflowing of our hearts, though we have nothing in it to offer your Majeſty, but that which is your own by the Law of God and of this Land, our moſt affectionately Loyall and Obedient hearts, with an intire reſignation of our Lives and Fortunes, whenſoever they may be for your Majeſties ſervice: And humbly pray Almighty God in your Majeſties behalf, that you may long Reign happily, as you do now, that is, as well in the Hearts, as over the Outward Condition of your Subjects, that from your Majeſties ſo much deſired Government may flow all Bleſſings upon your Loyall Subjects, that we may by your Majeſties great Moderation, Prudence and Felicity, ſee once again the Church and State flouriſh, as in the dayes of your Royall Father and Grandfather of ever Glorious Memory, to whom, as your Majeſty is a living Monument of Honour upon Earth, ſo that you may be, after a very long Life, the ſame in Heaven, ſhall be the Conſtant and moſt Zealous Prayer of</p>
+            <closer>
+               <signed>Your MAJESTIES Moſt humble and moſt dutifull Subjects of the County of <hi>SOMERSET,</hi>
+                  <list>
+                     <item>John <hi>Lord</hi> Paulet.</item>
+                     <item>Francis <hi>Lord</hi> Hawley.
+<list>
+                           <head>Eſquires.</head>
+                           <item>John Paulet.</item>
+                           <item>Francis Paulet.</item>
+                           <item>Amos Paulet.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> William Portman <hi>Baronet.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> John Sydenham <hi>Baronet.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> John Stowell <hi>Knight of the Bath.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Henry Berkely.</item>
+                     <item>
+                        <hi>Sir</hi> Charles Berkely.</item>
+                     <item>
+                        <hi>Sir</hi> Hugh Wyndham.</item>
+                     <item>
+                        <hi>Sir</hi> George Norton.</item>
+                     <item>
+                        <hi>Sir</hi> William Wyndham.</item>
+                     <item>
+                        <hi>Sir</hi> John Warre.</item>
+                     <item>George Horner <hi>Knights of the Shire.</hi>
+                     </item>
+                     <item>Hugh Smith <hi>Knights of the Shire.</hi>
+                        <list>
+                           <head>Eſquires.</head>
+                           <item>Alexander Popham.</item>
+                           <item>Edward Phelips.</item>
+                           <item>George Stowell.</item>
+                           <item>Samuel Gorges.</item>
+                           <item>Hugh Halſwell.</item>
+                           <item>Peregrine Palmer.</item>
+                           <item>Edward Hungerford</item>
+                           <item>Maurice Berkley.</item>
+                           <item>John Malet.</item>
+                           <item>Ralph Stowell.</item>
+                           <item>George Speake.</item>
+                           <item>Edward Berkely.</item>
+                           <item>William Baſſet.</item>
+                        </list>
+                     </item>
+                     <item>John Brice <hi>Gent.</hi>
+                     </item>
+                     <item>Timothy Rivot <hi>Gent.</hi>
+                        <list>
+                           <head>Eſquires.</head>
+                           <item>John Newton.</item>
+                           <item>Thomas Warre.</item>
+                           <item>John Tynte.</item>
+                           <item>Edmund Wyndham.</item>
+                           <item>Francis Wyndham.</item>
+                           <item>William Bull.</item>
+                           <item>Samuel Horner.</item>
+                           <item>Charles Pym.</item>
+                           <item>John Bamfield.</item>
+                           <item>Robert Phelips.</item>
+                           <item>Thomas Pigot.</item>
+                           <item>George Bampfield.</item>
+                           <item>Warrick Bampfield.</item>
+                           <item>George Sydenham.</item>
+                           <item>William Every.</item>
+                           <item>Edward Bampfield.</item>
+                           <item>Nicholas Codrington.</item>
+                           <item>Humfry Hook.</item>
+                           <item>William Doble.</item>
+                           <item>William Dyke.</item>
+                           <item>Edward Gorges.</item>
+                           <item>Edward Nevill.</item>
+                           <item>William Helliard.</item>
+                           <item>Henry Bull.</item>
+                           <item>John Churchill.</item>
+                           <item>Henry Wynter.</item>
+                           <item>Hugh Tynte.</item>
+                           <item>Robert Hawley.</item>
+                           <item>Anthony Paulet.</item>
+                           <item>Malet Paulet.</item>
+                        </list>
+                     </item>
+                     <item>Francis Harvey <hi>Gent.</hi>
+                     </item>
+                     <item>John Harvey <hi>Gent.</hi>
+                        <list>
+                           <head>Eſquires.</head>
+                           <item>Thomas Percivall.</item>
+                           <item>William Walrond.</item>
+                           <item>Angell Grey.</item>
+                           <item>John Buckland.</item>
+                           <item>John Coventry.</item>
+                           <item>Henry Grey.</item>
+                           <item>Francis Luttrell.</item>
+                           <item>Robert Hunt.</item>
+                           <item>Thomas Neuton.</item>
+                           <item>Henry Walrond.</item>
+                           <item>George Walrond.</item>
+                           <item>John Hall.</item>
+                           <item>Henry Sydenham.</item>
+                           <item>Humphry Sydenham.</item>
+                           <item>Roger Bourn.</item>
+                           <item>Triſtrum Wood.</item>
+                           <item>Thomas Francis.</item>
+                           <item>John Bonvile.</item>
+                           <item>Robert Mohun.</item>
+                           <item>William Paulet.</item>
+                           <item>Michael Malet.</item>
+                           <item>Thomas White.</item>
+                           <item>William Milbourne.</item>
+                           <item>Henry Dunſter.</item>
+                           <item>John Morgan.</item>
+                           <item>Richard Morgan.</item>
+                           <item>Francis Keen.</item>
+                           <item>Thomas Dyer.</item>
+                           <item>Martin Sanford.</item>
+                           <item>John Harrington.</item>
+                        </list>
+                     </item>
+                     <item>Thomas Gorges <abbr>
+                           <hi>Eſq</hi>
+                        </abbr>
+                     </item>
+                     <item>Henry Rogers <hi>Gent.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>This Addreſſe was preſented to his Majeſty by <hi>George Horner</hi> and <hi>Hugh Smith,</hi> Eſquires, Knights for the County of <hi>Somerſet,</hi> on the Ninth of <hi>June,</hi> to which his Majeſty gave a very gracious Acceptance.</p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Royſton</hi> at the <hi>Angel</hi> in <hi>Ivy-lane,</hi> MDCLX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
